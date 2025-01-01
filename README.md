@@ -103,21 +103,21 @@ Here are some ideas to get you started:
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nevzra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="nevzra" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nevze&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="nevze" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevzra&theme=github_dark&show_icons=true&count_private=true&hide_border=true%22%20align=%22center%22"
-    alt="nevzra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevze&theme=github_dark&show_icons=true&count_private=true&hide_border=true%22%20align=%22center%22"
+    alt="nevze" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevzra&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="nevzra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevze&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="nevze" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-[nevzra](https://github.com/nevzra)
+[nevze](https://github.com/nevze)
